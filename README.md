@@ -116,3 +116,19 @@ Since 13.8% of loans are underperforming while 86.2% are performing well, thus t
 ## Conclusion
 This project demonstrates the ability to perform end to end data analysis  from cleaning and transformation to visualization and business insights.  
 It helps financial institutions monitor loan portfolios assess borrower risk and make informed lending decisions.
+
+
+
+
+## About
+
+Data-driven analysis of bank loan records using SQL and Power BI. Includes data cleaning, KPI tracking, and interactive dashboards to identify lending patterns, borrower risk profiles, and loan performance trends.
+
+
+
+
+## Contact
+
+You can see all related files in the above folders.
+If you face any issue or have queries, feel free to contact me via email:
+📩 sunnyk36803@gmail.com
